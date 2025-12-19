@@ -1,0 +1,4 @@
+    // 우편번호 찾기 - Modal 방식으로 변경
+    const handleSearchAddress = () => {
+        setIsAddressModalOpen(true);
+    };

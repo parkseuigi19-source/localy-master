@@ -1,0 +1,46 @@
+# Python 3.12 Compatible Requirements
+
+# Web Framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.18
+
+# Data Validation
+pydantic==2.10.3
+pydantic[email]==2.10.3
+pydantic-settings==2.6.1
+
+# Database
+sqlalchemy==2.0.36
+pymysql==1.1.1
+cryptography==44.0.0
+
+# Authentication & Security
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+python-jose[cryptography]==3.3.0
+
+# LangChain & AI
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-core==0.3.28
+langchain-community==0.3.13
+langgraph==0.2.59
+openai==1.58.1
+
+# HTTP Requests
+requests==2.32.3
+httpx==0.28.1
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Google APIs
+googlemaps==4.10.0
+
+# Web Scraping (if needed)
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Utilities
+python-dateutil==2.9.0.post0

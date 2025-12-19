@@ -250,6 +250,7 @@ npm run dev
 | **공민우** | Frontend Developer | 서브 에이전트 개발, 메인 프론트엔드 개발, UI/UX 구현 |
 | **정기홍** | Planner & Database | 프로젝트 기획, 서브 DB 관리, 요구사항 정의 |
 | **황재성** | AI Specialist | LLM 성격 설정, 프롬프트 파인튜닝, 서브 에이전트 개발 |
+| **박슬기** | AI Specialist & bandand | 서브 에이전트 개발, 서브 백엔드 개발 |
 
 ---
 
